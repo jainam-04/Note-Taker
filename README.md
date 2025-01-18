@@ -32,5 +32,5 @@ To run this project, ensure you have the following installed on your system:
 
 **Clone the Repository**
    ```bash
-   https://github.com/jainam-04/Note-Taker
+   git clone https://github.com/jainam-04/Note-Taker
    cd NoteTaker
